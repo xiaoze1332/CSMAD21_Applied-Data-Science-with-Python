@@ -1,0 +1,11 @@
+1.安装anaconda3以及python3.6（只安装anaconda3就可以）
+	https://www.anaconda.com/products/individual
+
+2.需要的库
+	Numpy,Pandas,functionalplus等
+	conda activate practice
+	conda install numpy
+	conda install pandas
+	conda install -c conda-forge functionalplus
+	
+	

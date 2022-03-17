@@ -1,0 +1,6 @@
+#question1
+	use np.all judge where the array has 0, if it has 0, will return True, else return False.
+	
+	
+#question1.3
+	use np.identity instead of reshape to build the array
